@@ -1,0 +1,56 @@
+body{
+    display: flex;
+    flex-direction: column;
+    
+ }
+ .lineDiv{
+     display: flex;
+     flex-direction: row;
+ 
+     justify-content: center;
+ }
+ 
+ 
+ .coco{
+ width: 40px;
+ height: 40px;
+ background-color: greenyellow;
+ text-align: center;
+ }
+ 
+ .mur{
+     width: 40px;
+     height: 40px;
+     background-color: brown;
+     text-align: center;
+ }
+ .chemin{
+     width: 40px;
+     height: 40px;
+     background-color: greenyellow;
+     text-align: center;
+ }
+ .start{
+     width: 40px;
+     height: 40px;
+     background-image: url("https://www.flagsonline.fr/uploads/2016-6-6/420-272/gare-ascacchi.jpg");
+     background-size: contain;
+     background-color: greenyellow;
+     text-align: center;
+ }
+ .perso{
+     width: 20px;
+     height: 20px;
+     margin: 10px;
+     border-radius: 50%;
+     background-color: aqua; 
+ }
+ 
+ .tresor{
+     width: 40px;
+     height: 40px;
+     background-image: url("https://www.flagsonline.fr/uploads/2016-6-6/420-272/gare-ascacchi.jpg");
+     background-size: contain;
+     background-color: greenyellow;
+     text-align: center;
+ }
